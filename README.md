@@ -6,13 +6,12 @@
 
 ## 🚀 Developer | Full-Stack Engineer | AI Enthusiast
 
-With over 9 years of experience in crafting high-performance, scalable solutions, I've led teams and developed innovative applications across various domains. My expertise spans full-stack development, cloud architecture, and cutting-edge AI/ML implementations.
+I’m a software engineer with 9+ years of experience in full-stack development, web solutions, and cloud architecture. I love exploring new technologies and solving real-world problems with practical, impactful solutions. Always learning, always building.
 
 ### 🌟 Career Highlights
 
 - Developing an AI-first virtual clothing try-on application using React Native, Python, TensorFlow, and Comfy-UI
 - Led migration to Kubernetes, reducing deployment times by 60% and improving development lifecycle
-- Engineered a transformer-based language model using TensorFlow and Python
 - Designed and optimized a diarization pipeline using AWS, enhancing throughput and system performance
 - Developed a Purchasing flow supporting 14 countries, implementing SaaS pricing models
 
