@@ -18,8 +18,8 @@ Senior Software Engineer with 10+ years of experience in building scalable appli
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetsgr07&show_icons=true&theme=radical)
 
 ## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](Your LinkedIn URL)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](Your Website URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([Your LinkedIn URL](https://www.linkedin.com/in/vineet-sagar-76b10628/))
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://vineetsagar.webflow.io/)
 
 ## 📫 How to reach me
 You can reach out to me at [your.email@example.com]
