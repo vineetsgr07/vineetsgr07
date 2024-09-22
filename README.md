@@ -1,7 +1,7 @@
 # Vineet Sagar
 
 <p align="center">
-  <img src="images/banner.png" alt="Vineet Sagar - Software Developer" width="100%">
+  <img src="banner.png" alt="Vineet Sagar - Software Developer" width="100%">
 </p>
 
 ## 🚀 Developer | Full-Stack Engineer | AI Enthusiast
