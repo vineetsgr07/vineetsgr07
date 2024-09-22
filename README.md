@@ -15,7 +15,7 @@ Senior Software Engineer with 10+ years of experience in building scalable appli
 // Add more badges for your skills
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetsgr07&show_icons=true&theme=radical)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](Your LinkedIn URL)
