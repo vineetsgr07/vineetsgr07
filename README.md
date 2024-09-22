@@ -37,23 +37,32 @@ With over 9 years of experience in crafting high-performance, scalable solutions
       <a href="https://actofy.ai">
         <img src="micro.png" width="150px; alt="Actofy.ai"/>
         <br />
-        <sub><b>Actofy.ai E-Learning APP</b></sub>
+        <sub><b>Actofy.ai E-Learning</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://wonderpack.com">
         <img src="wonder.png" width="150px;" alt="AI Clothing Try-On"/>
         <br />
-        <sub><b>AI Clothing Try-On APP</b></sub>
+        <sub><b>AI Clothing Try-On</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://wonderpack.com">
-        <img src="weather.png" width="150px;" alt="CharacterGPT"/>
+      <a href="https://ovou.com/">
+        <img src="ovou.png" width="150px;" alt="CharacterGPT"/>
         <br />
-        <sub><b>Weather Web-App</b></sub>
+        <sub><b>ovou</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://wonderpack.app/">
+        <img src="weather.png" width="150px;" alt="CharacterGPT"/>
+        <br />
+        <sub><b>weather</b></sub>
+      </a>
+    </td>
+
+
 
   </tr>
 </table>
