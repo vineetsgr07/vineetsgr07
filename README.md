@@ -34,26 +34,27 @@ With over 9 years of experience in crafting high-performance, scalable solutions
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/ai-clothing-tryon">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="AI Clothing Try-On"/>
+      <a href="https://actofy.ai">
+        <img src="micro.png" width="150px; alt="Actofy.ai"/>
         <br />
-        <sub><b>AI Clothing Try-On App</b></sub>
+        <sub><b>Actofy.ai E-Learning APP</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/charactergpt">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="CharacterGPT"/>
+      <a href="https://wonderpack.com">
+        <img src="wonder.png" width="150px;" alt="AI Clothing Try-On"/>
         <br />
-        <sub><b>CharacterGPT</b></sub>
+        <sub><b>AI Clothing Try-On APP</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/vineetsgr07/actofy">
-        <img src="micro.png" width="150px;" alt="Actofy.ai"/>
+      <a href="https://wonderpack.com">
+        <img src="weather.png" width="150px;" alt="CharacterGPT"/>
         <br />
-        <sub><b>Actofy.ai E-Learning SAAS</b></sub>
+        <sub><b>Weather Web-App</b></sub>
       </a>
     </td>
+
   </tr>
 </table>
 
