@@ -49,7 +49,7 @@ With over 9 years of experience in crafting high-performance, scalable solutions
     </td>
     <td align="center">
       <a href="https://github.com/vineetsgr07/actofy">
-        <img src="micro.png" width="100px;" alt="Actofy.ai"/>
+        <img src="micro.png" width="150px;" alt="Actofy.ai"/>
         <br />
         <sub><b>Actofy.ai E-Learning SAAS</b></sub>
       </a>
