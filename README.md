@@ -1,7 +1,7 @@
 # Vineet Sagar
 
 <p align="center">
-  <img src="https://your-custom-banner-image-url.com" alt="Vineet Sagar - Senior Software Engineer" width="100%">
+  <img src="images/banner.png" alt="Vineet Sagar - Senior Software Engineer" width="100%">
 </p>
 
 ## 🚀 Senior Software Engineer | Full-Stack Engineer | AI Enthusiast
