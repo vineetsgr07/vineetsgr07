@@ -78,7 +78,7 @@ With over a decade of experience in crafting high-performance, scalable solution
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vineetsgr07&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=blueviolet&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 
