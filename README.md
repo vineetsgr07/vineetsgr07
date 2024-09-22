@@ -1,10 +1,10 @@
 # Vineet Sagar
 
 <p align="center">
-  <img src="images/banner.png" alt="Vineet Sagar - Senior Software Engineer" width="100%">
+  <img src="images/banner.png" alt="Vineet Sagar - Software Developer" width="100%">
 </p>
 
-## 🚀 Senior Software Engineer | Full-Stack Engineer | AI Enthusiast
+## 🚀 Developer | Full-Stack Engineer | AI Enthusiast
 
 With over 9 years of experience in crafting high-performance, scalable solutions, I've led teams and developed innovative applications across various domains. My expertise spans full-stack development, cloud architecture, and cutting-edge AI/ML implementations.
 
