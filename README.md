@@ -54,7 +54,7 @@ I’m a software engineer with 9+ years of experience in full-stack development,
       </a>
     </td>
     <td align="center">
-      <a href="https://wonderpack.app/">
+      <a href="https://weather-app-zeta-swart.vercel.app/">
         <img src="weather.png" width="150px;" alt="CharacterGPT"/>
         <br />
         <sub><b>weather</b></sub>
