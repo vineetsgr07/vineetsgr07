@@ -87,7 +87,3 @@ I’m a software engineer with 9+ years of experience in full-stack development,
   <a href="https://vineetsagar.webflow.io/"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:vineet.sagar7@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
