@@ -60,6 +60,13 @@ I’m a software engineer with 9+ years of experience in full-stack development,
         <sub><b>weather</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://ai-immigration-assistant-zeta.vercel.app/auth/signin">
+        <img src="immigration.png" width="150px;" alt="CharacterGPT"/>
+        <br />
+        <sub><b>Immigration Assistant</b></sub>
+      </a>
+    </td>
 
 
 
