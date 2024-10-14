@@ -54,7 +54,7 @@ I’m a software engineer with 9+ years of experience in full-stack development,
       </a>
     </td>
     <td align="center">
-      <a href="https://wonderpack.app/">
+      <a href="https://weather-app-zeta-swart.vercel.app/">
         <img src="weather.png" width="150px;" alt="CharacterGPT"/>
         <br />
         <sub><b>weather</b></sub>
@@ -93,8 +93,4 @@ I’m a software engineer with 9+ years of experience in full-stack development,
   <a href="https://www.linkedin.com/in/vineet-sagar-76b10628/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://vineetsagar.webflow.io/"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:vineet.sagar7@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
