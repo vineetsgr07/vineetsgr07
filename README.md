@@ -67,9 +67,6 @@ I’m a software engineer with 9+ years of experience in full-stack development,
         <sub><b>Immigration Assistant</b></sub>
       </a>
     </td>
-
-
-
   </tr>
 </table>
 
@@ -86,8 +83,6 @@ I’m a software engineer with 9+ years of experience in full-stack development,
 ### 🏅 Publications
 
 - [Token-based solution to the ME problem in mobile ad-hoc environment](https://drive.google.com/file/d/1iq1nH6Vm5RuwaZ0s8fNpzS4H9Ex1d0OY/view?usp=sharing)
-
-### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vineet-sagar-76b10628/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
