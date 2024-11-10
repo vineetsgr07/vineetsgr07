@@ -10,6 +10,7 @@ I’m a software engineer with 9+ years of experience in full-stack development,
 
 ### 🌟 Career Highlights
 
+- Engineered a vertical AI platform integrating Google's Gemini and Imagen, implementing parallel request processing and real-time monitoring using Flutter, Supabase, and PostgreSQL
 - Developing an AI-first virtual clothing try-on application using React Native, Python, TensorFlow, and Comfy-UI
 - Led migration to Kubernetes, reducing deployment times by 60% and improving development lifecycle
 - Designed and optimized a diarization pipeline using AWS, enhancing throughput and system performance
